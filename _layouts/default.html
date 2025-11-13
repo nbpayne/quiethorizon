@@ -2,19 +2,18 @@
 <html lang="en-us">
   {% include head.html %}
   <body>
-    <div class="container">
+    <div class="container mt-2 mt-md-5">
       <div class="row">
-        <div class="col">
+        <div class="col-md-4 offset-md-8 text-end">
           {% include header.html %}
         </div>
       </div>
       <div class="row">
-        <div class="col">
-          {{ content }}
+        <div class="col-md-6">
+          <h1 class="title">{{ page.title }}</h1>
         </div>
-      </div>
-      <div class="row">
-        <div class="col">
+        <div class="col-md-6">
+          {{ content }}
           {% include footer.html %}
         </div>
       </div>

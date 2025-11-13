@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Quiet Horizon Pictures.
 ---
-
-# Hello, Sydney.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nisl nec porta aliquet, massa est commodo eros, pharetra lacinia turpis magna eu magna.
 {: .lead }

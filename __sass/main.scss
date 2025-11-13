@@ -1,5 +1,49 @@
+@import "../bower_components/bootstrap/scss/mixins/banner";
+@include bsBanner("");
+
+
+// scss-docs-start import-stack
+// Configuration
+@import "../bower_components/bootstrap/scss/functions";
+@import "../bower_components/bootstrap/scss/variables";
+@import "../bower_components/bootstrap/scss/variables-dark";
+@import "../bower_components/bootstrap/scss/maps";
+@import "../bower_components/bootstrap/scss/mixins";
+@import "../bower_components/bootstrap/scss/utilities";
+
+
 // Components
 // .navbar {
 //   margin-bottom: 1rem;
 //   margin-top: 1rem;
 // }
+
+body {
+	background-color: #000;
+	background-image: url(../img/backdrop.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: #fff;
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+	font-weight: 100;
+}
+
+@include media-breakpoint-up(md) {
+	body {
+		background-position: top;
+	}
+}
+
+.title {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-size: calc(4rem + 1.5vw);
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+	font-weight: 800;
+	line-height: 1;
+}
