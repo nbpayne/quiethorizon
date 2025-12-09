@@ -1,11 +1,11 @@
 ---
-layout: alt
-title: Quiet Horizon Pictures.
+layout: default
+title: Quiet Horizon Pictures
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nisl nec porta aliquet, massa est commodo eros, pharetra lacinia turpis magna eu magna.
+Quiet Horizon Pictures is a new Australian production company with a mission to tell stories rooted in Australia's history, ethos, and character.
 {: .lead }
 
-Sed eu enim feugiat, ullamcorper dolor id, consequat elit. Nullam ut pharetra odio. Cras ut metus convallis, faucibus nulla quis, aliquam massa. Suspendisse potenti. Aliquam in dolor convallis est feugiat lacinia id at sapien. Fusce in nibh erat. Aliquam egestas tempor turpis eu euismod. Aliquam a iaculis risus.
+This shared venture is being led by Panamanian-borne, now Australian resident Maria de la Ossa along with locally bred cinematographer Nick Payne. Maria is the director of the acclaimed feature film _Carmen and Bolude_ and is currently directing indie feature _My Inner Child_. Nick is the Director of Photography for the upcoming feature film _Sherbrooke Down: Valley of Tears_ along with other yet to be announced projects.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Together, Maria and Nick are developing an exciting new feature film project based on the true life and times of a hidden, queer, Australian character from the late 1800s. Please reach out to discuss investment opportunities that will be soon arising.

@@ -16,11 +16,10 @@
 title: Quiet Horizon Pictures
 email: www@mywebsite
 description: > # this means to ignore newlines until "baseurl:"
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum 
-  magna feugiat nibh venenatis hendrerit.
+  A new Australian production company with a mission to tell stories rooted in Australia’s history, ethos, and character.
 baseurl: # the subpath of your site, e.g. /blog
-url: 'https://dp.nickpayne.com' # the base hostname & protocol for your site, e.g. http://example.com
-repository: 'nbpayne/[repository]'
+url: 'https://www.quiethorizon.com.au' # the base hostname & protocol for your site, e.g. http://example.com
+repository: 'nbpayne/quiethorizon'
 locale: en_AU
 formid: 
 
